@@ -10,22 +10,22 @@
 
 `botpress start {{../path/to/bot}}`
 
-- Install a local module
+- Install a local module:
 
 `botpress install {{../path/to/module}}`
 
-- Install a community module
+- Install a community module:
 
 `botpress install {{module-name}}`
 
-- Uninstall a module
+- Uninstall a module:
 
 `botpress uninstall {{module-name}}`
 
-- List installed modules
+- List installed modules:
 
 `botpress list`
 
-- Create a new module
+- Create a new module:
 
 `botpress create`
